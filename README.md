@@ -51,7 +51,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
+    git clone git remote add origin https://github.com/Kaleb-N/Music-Player.git
    ```
 
 2. Change directory to the project directory
@@ -80,16 +80,6 @@ To set up a development environment, please follow these steps:
 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Issues
-
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/orgs/JavaScript-Mastery-PRO/projects/8). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
-
-Please try to create bug reports that are:
-
-- _Reproducible._ Include steps to reproduce the problem.
-- _Specific._ Include as much detail as possible: which version, what environment, etc.
-- _Unique._ Do not duplicate existing opened issues.
-- _Scoped to a Single Bug._ One bug per report.
 
 
 ## Pull Request
