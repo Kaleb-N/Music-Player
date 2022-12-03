@@ -98,7 +98,7 @@ const TopPlay = () => {
           centeredSlides
           centeredSlidesBounds
           modules={[FreeMode]}
-          className="mt-4"
+          className="mt-4 mb-8 sm:mb-2"
         >
           {topPlays?.map((song, i) => (
             <SwiperSlide
